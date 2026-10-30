@@ -1,6 +1,0 @@
-{
-  "name": "محول الملفات الشامل PWA",
-  "description": "منصة شاملة لتحويل الملفات تعمل بتقنية PWA محلياً 100% بدون إنترنت مع 40 أداة سريعة للمستندات والصور والبيانات.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
